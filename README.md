@@ -3,6 +3,10 @@
 원본
 https://github.com/galaxywiz/RoseServer
 
+저자 블로그
+https://rosagigantea.tistory.com/591?category=617834
+
+
 
 서버프로그래밍 학습 및 코드 개선을 위해 레포지토리 복사함
 
